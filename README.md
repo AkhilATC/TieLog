@@ -1,6 +1,6 @@
-# TieLog
+# TieLog 🪢
 
-The TieLog implements log rotation in Python based on time or size.The TieLog uses python logging, based on time or size log data is archived. That helps to free up space.	
+The TieLog implements log rotation in Python based on time or size.The TieLog uses python logging, based on time/size log data is archived. That helps to free up space.	
 
 ## installation
 
